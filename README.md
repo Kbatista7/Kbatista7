@@ -1,16 +1,17 @@
-## Hi there 👋
+<p>
+  <img
+    alinhar="esquerda"
+    alt="Estatísticas do GitHub"
+    altura="200"
+    estilo="preenchimento-direito: 10px;"
+    fonte="https://github-readme-stats.vercel.app/api?username=Kbatista7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
-<!--
-**Kbatista7/Kbatista7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+      alinhar="esquerda"
+      alt="Estatísticas do GitHub"
+      altura="200"
+      fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbatista7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
